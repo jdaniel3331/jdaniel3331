@@ -9,7 +9,8 @@
 - 🚲 Always ready for a ride.
 
 **My stack**
-![Java icon](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg)
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js"><br>
 
 **🌎 Make the Spanish Empire great again! 🌍**
 
