@@ -2,10 +2,14 @@
 ### Welcome to my GitHub profile!
 
 **About me:**
-- 📖 Computer Engineer Student at UAEMex (graduating soon ✨)
+- 📖 Computer Engineer Student at UAEMex (graduating soon ✨).
 - 👨‍💻 Backend developer specialized at Java ☕ and Spring Framework 🍃
-- 📼 I love retro computing and vintage technology
-- ⛩️ I'm into Japanesse stuff like anime
+- 📼 I love retro computing and vintage technology.
+- ⛩️ I'm into Japanesse stuff like anime and manga.
+- 🚲 Always ready for a ride.
+
+**My stack**
+![Java icon](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg)
 
 **🌎 Make the Spanish Empire great again! 🌍**
 
