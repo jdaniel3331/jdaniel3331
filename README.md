@@ -2,9 +2,12 @@
 ### Welcome to my GitHub profile!
 
 **About me:**
-- 📖 Computer Enginerr Student at UAEMex (graduating soon ✨)
+- 📖 Computer Engineer Student at UAEMex (graduating soon ✨)
 - 👨‍💻 Backend developer specialized at Java ☕ and Spring Framework 🍃
 - 📼 I love retro computing and vintage technology
+- ⛩️ I'm into Japanesse stuff like anime
+
+**🌎 Make the Spanish Empire great again! 🌍**
 
 <!--
 **jdaniel3331/jdaniel3331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
