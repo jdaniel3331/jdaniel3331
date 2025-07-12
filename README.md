@@ -8,11 +8,15 @@
 - ⛩️ I'm into Japanesse stuff like anime and manga.
 - 🚲 Always ready for a ride.
 
-**My stack**
+**My stack 🛡️**
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea,kotlin"><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react"><br>
-<img src="https://skillicons.dev/icons?i=nestjs,postgres,docker,aws,linux"><br>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea"><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,py,postgres"><br>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux"><br>
+
+**Currently learning ✏️**
+
+<img src="https://skillicons.dev/icons?i=kotlin,ts,react,nestjs"><br>
 
 <!--
 **jdaniel3331/jdaniel3331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
