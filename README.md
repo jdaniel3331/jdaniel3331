@@ -10,9 +10,8 @@
 
 **My stack**
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js"><br>
-
-**🌎 Make the Spanish Empire great again! 🌍**
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea,kotlin"><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react"><br>
 
 <!--
 **jdaniel3331/jdaniel3331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
