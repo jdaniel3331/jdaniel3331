@@ -10,13 +10,13 @@
 
 **My stack 🛡️**
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea"><br>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea,vscode"><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,py,postgres"><br>
-<img src="https://skillicons.dev/icons?i=docker,aws,linux"><br>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,ubuntu"><br>
 
 **Currently learning ✏️**
 
-<img src="https://skillicons.dev/icons?i=kotlin,ts,react,nestjs"><br>
+<img src="https://skillicons.dev/icons?i=kotlin,ts,react,nestjs,php,laravel"><br>
 
 <!--
 **jdaniel3331/jdaniel3331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
