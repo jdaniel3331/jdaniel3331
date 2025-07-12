@@ -12,7 +12,8 @@
 
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea,vscode"><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,py,postgres"><br>
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,ubuntu"><br>
+<img src="https://skillicons.dev/icons?i=mysql,docker,aws,linux,ubuntu"><br>
+<img src="https://skillicons.dev/icons?i=git,github"><br>
 
 **Currently learning ✏️**
 
